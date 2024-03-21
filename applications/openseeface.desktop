@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/home/nu/Documents/Vtube/run-facetracker.sh
+GenericName[en_US]=
+GenericName=
+Icon=/home/nu/Documents/Vtube/OSF.png
+MimeType=
+Name[en_US]=OpenSeeFace
+Name=OpenSeeFace
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;
+Comment[en_US]=Play this game on Steam
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/11875164568621678592
+GenericName[en_US]=
+GenericName=
+Icon=/home/nu/Documents/Vtube/VSF.png
+MimeType=
+Name[en_US]=VSeeFace
+Name=VSeeFace
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

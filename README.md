@@ -6,6 +6,8 @@ for other people: this is not a fucking rice and dont use these dotfiles this is
 
 the best way to install arch → `pacman -S archinstall && archinstall`
 
+https://github.com/AstroNvim/AstroNvim (do not install vscode, it's literally useless)
+
 ### "running a certain electron app under wayland" flags (ew)
 
 electron is utter shit, i use only a single electron application that starts and ends with a D and has iscor in the middle  

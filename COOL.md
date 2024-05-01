@@ -1,8 +1,8 @@
 # Settings up the environment for comfy content creation
 
-Install obs-studio, obs-linuxbrowser-bin and obs-vkcapture-git
+Install obs-studio-tytan652 and obs-vkcapture-git, both very required (from AUR)
 
-`yay -S obs-studio obs-linuxbrowser-bin obs-vkcapture-git`
+`yay -S obs-studio-tytan652 obs-vkcapture-git`
 
 Make sure that v4l2loopback works, required for obs virtual camera
 
@@ -23,8 +23,14 @@ Make sure that v4l2loopback works, required for obs virtual camera
 
 ## VR
 
-setup and use corectrl, make a manual profile to crank gpu and cpu
-to try and improve performance
+setup and use corectrl, make a profile to crank gpu and cpu
+to try and improve performance  
+can be manual or automatic (has to point to vrcompositor)
+
+Path for vrcompositor:
+```
+~/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrcompositor
+```
 
 - AprilTagTrackers
     - Download binary and move to `~/Documents/VR/`

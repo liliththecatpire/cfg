@@ -7,32 +7,32 @@
 this is the best software, basically perfection as we know it. it's the current PEAK
 
 ## list of cuntinents
-    - [sys info fetching (powered by puppygirls)](#sys-info-fetching)
-    - [linoox desktop](#linoox-desktop)
-    - [coding gay gay so gay](#coding-gay-gay-so-gay)
-    - [gayming](#gayming)
-    - [content creation](#content-creation)
-    - [content consumption](#content-consumption)
+- [sys info fetching (powered by puppygirls)](#sys-info-fetching)
+- [linoox desktop](#linoox-desktop)
+- [coding gay gay so gay](#coding-gay-gay-so-gay)
+- [gayming](#gayming)
+- [content creation](#content-creation)
+- [content consumption](#content-consumption)
 
 ## awsome
 
 ### sys info fetching
 its powered by puppygirls (fetch command joke)
 
-    - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - good and FAST better than neofetch (ew slow)
-    - uwufetch - uwu u so warm
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - good and FAST better than neofetch (ew slow)
+- uwufetch - uwu u so warm
 
 ### linoox desktop
 this is what uhhh what ye
 
-    - [kde plasma](https://kde.org/plasma-desktop/) - best desktop to edge to and currently leading in features and standards implemented
-    - kde apps
+- [kde plasma](https://kde.org/plasma-desktop/) - best desktop to edge to and currently leading in features and standards implemented
+- kde apps
 
 ### coding gay gay so gay
 what i use to write garbage in the best way possible
 
-    - [neovim](https://neovim.io/) + [astronvim](https://astronvim.com/)
-    - intellij idea
+- [neovim](https://neovim.io/) + [astronvim](https://astronvim.com/)
+- intellij idea
 
 ### gayming
 
@@ -46,8 +46,8 @@ kdenlive
 
 #### drawing and image editing
 
-    - krita
-    - gimp
+- krita
+- gimp
 
 #### vector graphics
 inkscape

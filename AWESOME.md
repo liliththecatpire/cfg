@@ -26,7 +26,7 @@ its powered by puppygirls (fetch command joke)
 this is what uhhh what ye
 
 - [kde plasma](https://kde.org/plasma-desktop/) - best desktop to edge to and currently leading in features and standards implemented
-- kde apps
+- [fish](https://fishshell.com/) + [tide](https://github.com/IlanCosman/tide)
 
 ### coding gay gay so gay
 what i use to write garbage in the best way possible

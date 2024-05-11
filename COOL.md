@@ -27,8 +27,7 @@ Make sure that v4l2loopback works, required for obs virtual camera
 
 https://lvra.gitlab.io <-- 
 
-Envision for easy Monado setup  
-![envision video](https://lvra.gitlab.io/video/envision_installation/envision_installation_hq.mp4)
+[Envision](https://lvra.gitlab.io/video/envision_installation/envision_installation_hq.mp4) for easy monado setup
 
 monado gives a better, more stable experience in vrchat SO USE IT
 

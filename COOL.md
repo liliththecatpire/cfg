@@ -42,6 +42,7 @@ Path to vrcompositor:
 ```
 ~/.local/share/Steam/steamapps/common/SteamVR/bin/linux64/vrcompositor
 ```
+otherwise, point to `/bin/envision`
 
 - **SlimeVR** + **owotrack**
     - `yay -S slimevr-beta-bin` for binary from AUR

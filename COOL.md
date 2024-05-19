@@ -21,7 +21,7 @@ Make sure that v4l2loopback works, required for obs virtual camera
     - Add it to steam and run with proton
     - Make a desktop entry
 
-- [**PNGeo**](https://github.com/LillycatVtube/PNGeo) // for pngtubing (best used when VR streaming not in VRChat)
+- [**Veadotube**](https://olmewe.itch.io/veadotube-mini?download) // for pngtubing (best used when VR streaming not in VRChat)
 
 ## VR
 

@@ -1,10 +1,10 @@
 [Desktop Entry]
 Comment[en_US]=
 Comment=
-Exec=/home/nu/Documents/Vtube/run-facetracker.sh
+Exec=/home/linuko/Documents/Vtube/run-facetracker.sh
 GenericName[en_US]=
 GenericName=
-Icon=/home/nu/Documents/Vtube/OSF.png
+Icon=/home/linuko/Documents/Vtube/OSF.png
 MimeType=
 Name[en_US]=OpenSeeFace
 Name=OpenSeeFace

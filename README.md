@@ -6,7 +6,11 @@ for other people: this is not a fucking rice and dont use these dotfiles this is
 
 the best way to install arch → `pacman -S archinstall && archinstall`
 
-https://github.com/AstroNvim/AstroNvim (do not install vscode, it's literally useless)
+https://github.com/AstroNvim/AstroNvim for neovim
+
+i use #f4bcdb for my accent color on kde 
+
+
 
 ### "running a certain electron app under wayland" flags (ew)
 

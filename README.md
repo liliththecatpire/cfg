@@ -1,6 +1,10 @@
-## the stack 💮
+## 💮
 
 the best way to install arch → `pacman -S archinstall && archinstall`
+
+don't forget to uncomment *Colors* inside `/etc/pacman.conf` (makes pacman/yay pretty)
+
+setup [Chaotic AUR](https://aur.chaotic.cx/docs) for a little more pleasant AUR usage down the road
 
 i use `#f4bcdb` for my accent color in kde plasma
 

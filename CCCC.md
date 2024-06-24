@@ -1,8 +1,12 @@
-# Settings up the environment for comfy content creation
+# <ins>c</ins>onfiguring the environment for <ins>c</ins>omfy <ins>c</ins>ontent <ins>c</ins>reation
 
-Install obs-studio-tytan652 and obs-vkcapture-git, both very required (from AUR)
+First, install cef-minimal-obs-bin from Chaotic AUR (regular AUR is broken)
 
-`yay -S obs-studio-tytan652 obs-vkcapture-git`
+`yay -S chaotic-aur/cef-minimal-obs-bin`
+
+Then comes obs-studio-git and obs-vkcapture-git
+
+`yay -S aur/obs-studio-git aur/obs-vkcapture-git`
 
 Make sure that v4l2loopback works, required for obs virtual camera
 
@@ -34,8 +38,7 @@ monado gives a better, more stable experience in vrchat SO USE IT
 - use [wlx-overlay-s](https://github.com/galister/wlx-overlay-s) for a desktop overlay that's good and works
     - can be autostarted in envision using the "autostart command" field while editing a profile
 
-- use corectrl, make a profile to crank gpu and cpu
-to try and improve performance  
+- use corectrl, make a profile to set cpu to performance profile and set a higher minimum clock for gpu (set "VR" profile if possible)
 
 can be manual or automatic (for SteamVR: has to point to vrcompositor)  
 Path to vrcompositor:

@@ -1,16 +1,10 @@
-just my stuffs that i can't be bothered to remember
-
-for other people: this is not a fucking rice and dont use these dotfiles this is literally just for myself and no one else
-
 ## the stack 💮
 
 the best way to install arch → `pacman -S archinstall && archinstall`
 
-https://github.com/AstroNvim/AstroNvim for neovim
+i use `#f4bcdb` for my accent color in kde plasma
 
-i use #f4bcdb for my accent color on kde 
-
-
+<ins>*for a comfy git(lab/hub) experience*</ins>, use **glab** and **github-cli**
 
 ### "running a certain electron app under wayland" flags (ew)
 

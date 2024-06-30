@@ -12,7 +12,7 @@ i use `#f4bcdb` for my accent color in kde plasma
 
 ### "running a certain electron app under wayland" flags (ew)
 
-electron is utter shit, i use only a single electron application that starts and ends with a D and has iscor in the middle  
+electron is utter shit, and i absolutely hate it, but gotta use it because of a few apps.    
 these are the flags i stuff inside an extra .desktop entry just to fucking launch it
 
 ```

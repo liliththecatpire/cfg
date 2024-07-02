@@ -19,7 +19,7 @@ these are the flags i stuff inside an extra .desktop entry just to fucking launc
 --enable-features=VaapiVideoDecodeLinuxGL,OverlayScrollbar,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime
 ```
 
-### icloud caldav
+### icloud caldav for calendar
 
 1. use this https://github.com/midnightmonster/icloud-calendar-urls on macos and get your private caldav links
 2. generate an app password on appleid.apple.com
@@ -27,3 +27,7 @@ these are the flags i stuff inside an extra .desktop entry just to fucking launc
 4. add your individual calendars using the caldav links from before
 
 having kde connect is cool for this for quick clipboard transfering or **have the credentials prepared in bitwarden**
+
+### icloud drive sync
+
+https://gitlab.com/i1vy/iclouded :3

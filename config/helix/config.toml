@@ -1,0 +1,38 @@
+theme = "base16_transparent"
+
+[editor]
+line-number = "relative"
+mouse = true
+middle-click-paste = false
+shell = ["fish", "-c"]
+cursorline = true
+completion-timeout = 5
+completion-trigger-len = 1
+bufferline = "multiple"
+color-modes = true
+
+[editor.statusline]
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[editor.auto-pairs]
+"(" = ")"
+"[" = "]"
+"{" = "}"
+'"' = '"'
+"'" = "'"
+"`" = "`"
+
+[keys.normal]
+S-down = ["extend_to_line_bounds", "delete_selection", "paste_after"]
+S-up = ["extend_to_line_bounds", "delete_selection", "move_line_up", "paste_before"]
+

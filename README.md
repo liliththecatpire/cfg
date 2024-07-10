@@ -10,10 +10,9 @@ i use `#f4bcdb` for my accent color in kde plasma
 
 <ins>*for a comfy git(lab/hub) experience*</ins>, use **glab** and **github-cli**
 
-### "running a certain electron app under wayland" flags (ew)
+### element & discord launch flags
 
-electron is utter shit, and i absolutely hate it, but gotta use it because of a few apps.    
-these are the flags i stuff inside an extra .desktop entry just to fucking launch it
+electron is yuck, and i absolutely hate it, but gotta use it because of a few apps   
 
 ```
 --enable-features=VaapiVideoDecodeLinuxGL,OverlayScrollbar,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime

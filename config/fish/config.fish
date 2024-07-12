@@ -3,3 +3,5 @@ if status is-interactive
 end
 
 alias hx="helix"
+
+starship init fish | source

@@ -15,7 +15,7 @@ i use `#f4bcdb` for my accent color in kde plasma
 electron is yuck, and i absolutely hate it, but gotta use it because of a few apps   
 
 ```
---enable-features=VaapiVideoDecodeLinuxGL,OverlayScrollbar,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime
+--enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime
 ```
 
 ### icloud caldav for calendar

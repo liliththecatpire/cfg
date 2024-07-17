@@ -28,6 +28,15 @@ electron is yuck, and i absolutely hate it, but gotta use it because of a few ap
 --enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime
 ```
 
+### firefox `about:config`
+
+| flag | value |
+| --- | :-: |
+| `widget.gtk.non-native-titlebar-buttons.enabled` | `false` |
+| `widget.gtk.rounded-bottom-corners.enabled` | `true` |
+| `image.jxl.enabled` | `true` |
+| `widget.use-xdg-desktop-portal.file-picker` | `1` |
+
 ### icloud caldav for calendar
 
 1. use this https://github.com/midnightmonster/icloud-calendar-urls on macos and get your private caldav links

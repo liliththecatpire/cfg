@@ -6,7 +6,7 @@ the best way to install arch → `pacman -S archinstall && archinstall`
 
 setup [Chaotic AUR](https://aur.chaotic.cx/docs) for a little more pleasant AUR usage down the road
 
-main accent: `#f4bcdb` <img src="https://github.com/user-attachments/assets/d27a7a56-dbf2-44ea-8258-801d7dd51a0a" height="80px">
+accent color on my desktop: `#f4bcdb` <img src="https://github.com/user-attachments/assets/d27a7a56-dbf2-44ea-8258-801d7dd51a0a" height="80px">
 
 
 

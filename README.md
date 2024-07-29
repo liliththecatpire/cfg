@@ -4,25 +4,21 @@ the best way to install arch → `pacman -S archinstall && archinstall`
 
 setup [Chaotic AUR](https://aur.chaotic.cx/docs) for a little more pleasant AUR usage down the road
 
-i use `#f4bcdb` for my accent color in kde plasma
-
-<ins>*for a comfy git(lab/hub) experience*</ins>, use **glab** and **github-cli**
+main accent: `#f4bcdb`
 
 ### shell stuff
 
-use fish and https://starship.rs/guide/
+fish + https://starship.rs/guide/
 
 ```
 yay -S fish starship
 ```
 
-for starship prompt, use this one https://starship.rs/presets/pastel-powerline
+https://starship.rs/presets/pastel-powerline
 
-don't forget to uncomment *Colors* inside `/etc/pacman.conf` (makes pacman/yay pretty)
+uncomment *Colors* inside `/etc/pacman.conf` (makes pacman/yay pretty)
 
 ### element & discord launch flags
-
-electron is yuck, and i absolutely hate it, but gotta use it because of a few apps   
 
 ```
 --enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime

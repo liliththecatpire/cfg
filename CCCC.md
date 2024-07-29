@@ -12,18 +12,18 @@ Make sure that v4l2loopback works, required for obs virtual camera
 
 ## VTUBING
 
-- **OpenSeeFace** // face tracking
+- **OpenSeeFace** // face tracking for VSeeFace etc.
     ```
-    cd Documents
-    mkdir Vtube && cd Vtube
     git clone https://github.com/emilianavt/OpenSeeFace.git
+    cd OpenSeeFace
+    python -m venv venv
+    ./venv/bin/pip install onnxruntime opencv-python pillow numpy
     ```
+    - to run: `cd ~/OpenSeeFace && ./venv/bin/python facetracker.py -c 0 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900 --model 4`
 
 - **VSeeFace** // 3d vtuber model player, takes OSF data
-    - Download binary and move to `~/Documents/Vtube`
-      https://www.vseeface.icu/#download
-    - Add it to steam and run with proton
-    - Make a desktop entry
+    - https://www.vseeface.icu/#download
+    - Add it to steam and run with proton (need an alternative proton launcher)
 
 - [**Veadotube**](https://olmewe.itch.io/veadotube-mini?download) // for pngtubing (best used when VR streaming not in VRChat)
 
@@ -47,20 +47,6 @@ Path to vrcompositor:
 ```
 otherwise, point to `/bin/envision`
 
-- **SlimeVR** + **owotrack**
-    - `yay -S slimevr-beta-bin` for binary from AUR
+- **SlimeVR**
+    - `yay -S slimevr-beta-bin`
     - https://docs.slimevr.dev/tools/linux-installation.html  
-
-    - *Alternatively:* Move appimage to `~/Documents/VR/` (No updates blehhhh)
-
-
-<!--
-- **AprilTagTrackers** // scuffed FBT with apriltags, works only with SteamVR
-    - Download binary and move to `~/Documents/VR/`
-      https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker
-    - Install the driver for SteamVR/OpenVR using provided scripts
-    - Make a folder `~/.config/apriltag-trackers`
-    - Run the binary in this path ^
-      (cd to it or have a desktop entry use it as Path)
-    - Disable SteamVR home for calibration mode to work
-      (refer to the github wiki on the repo)

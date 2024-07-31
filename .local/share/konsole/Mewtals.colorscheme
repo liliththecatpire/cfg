@@ -8,10 +8,10 @@ Color=2,0,2
 Color=2,0,2
 
 [Color0]
-Color=104,0,104
+Color=113,0,113
 
 [Color0Faint]
-Color=83,0,83
+Color=103,0,103
 
 [Color0Intense]
 Color=115,6,61
@@ -53,10 +53,10 @@ Color=172,66,138
 Color=169,79,143
 
 [Color5]
-Color=97,0,100
+Color=122,0,126
 
 [Color5Faint]
-Color=97,0,100
+Color=117,0,121
 
 [Color5Intense]
 Color=176,128,178

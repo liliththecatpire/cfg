@@ -51,4 +51,4 @@ having kde connect is cool for this for quick clipboard transfering or **have th
 
 ### icloud drive sync
 
-https://gitlab.com/i1vy/iclouded :3
+[iclouded :3](https://github.com/i1vy/iclouded)

@@ -36,6 +36,7 @@ uncomment *Colors* inside `/etc/pacman.conf` (makes pacman/yay pretty)
 | `widget.gtk.rounded-bottom-corners.enabled` | `true` |
 | `image.jxl.enabled` | `true` |
 | `widget.use-xdg-desktop-portal.file-picker` | `1` |
+| `browser.tabs.hoverPreview.enabled` | `true` |
 
 ### icloud caldav for calendar
 

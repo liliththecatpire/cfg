@@ -50,3 +50,16 @@ having kde connect is cool for this for quick clipboard transfering or **have th
 ### icloud drive sync
 
 [iclouded :3](https://github.com/i1vy/iclouded)
+
+### fontconfig
+##### in case there is subpixel antialiasing enabled
+
+`~/.config/fontconfig/fonts.conf`
+
+```
+<match target="font" >
+  <edit mode="assign" name="rgba" >
+    <const>off</const>
+  </edit>
+</match>
+```

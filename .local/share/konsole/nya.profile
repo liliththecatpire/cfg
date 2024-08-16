@@ -1,7 +1,7 @@
 [Appearance]
 BorderWhenActive=false
 ColorScheme=Mewtals
-Font=Iosevka Nerd Font Mono,10,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
+Font=FantasqueSansM Nerd Font Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 UseFontBrailleChararacters=true
 UseFontLineChararacters=false
 

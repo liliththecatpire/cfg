@@ -4,18 +4,6 @@
 
 </div>
 
-### >_< shell stuff
-
-fish + https://starship.rs/guide/
-
-```
-yay -S fish starship
-```
-
-https://starship.rs/presets/pastel-powerline
-
-uncomment *Colors* inside `/etc/pacman.conf` (makes pacman/yay pretty)
-
 ### element & discord launch flags
 
 ```

@@ -3,5 +3,5 @@ if status is-interactive
 end
 
 alias hx="helix"
-
-starship init fish | source
+alias webptopng="magick mogrify -format png *.webp && rm -rf *.webp"
+alias eza="eza --icons"

@@ -1,6 +1,6 @@
 [Appearance]
 BorderWhenActive=false
-ColorScheme=Mewtals
+ColorScheme=in_vai{n}
 Font=FantasqueSansM Nerd Font Mono,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 UseFontBrailleChararacters=true
 UseFontLineChararacters=false

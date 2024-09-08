@@ -4,7 +4,7 @@
 
 </div>
 
-### element & discord launch flags
+### discord launch flags
 
 ```
 --enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime

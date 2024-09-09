@@ -1,0 +1,12 @@
+{
+  "project_panel": {
+    "dock": "right"
+  },
+  "features": {
+    "copilot": false
+  },
+  "theme": "Xcode High Contrast Dark",
+  "ui_font_size": 15,
+  "buffer_font_size": 13,
+  "buffer_font_family": "FantasqueSansM Nerd Font Propo"
+}

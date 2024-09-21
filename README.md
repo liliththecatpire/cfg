@@ -4,6 +4,9 @@
 
 </div>
 
+`#161214`  
+`#d6b5c1`
+
 ### discord launch flags
 
 ```

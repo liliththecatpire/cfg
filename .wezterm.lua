@@ -1,11 +1,11 @@
 local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
--- i hate this terminal but it might be my saving grace
+-- :3
 
-config.font = wezterm.font 'Iosevka Nerd Font Mono'
+config.font = wezterm.font 'FantasqueSansM Nerd Font Mono'
 config.font_size = 10.0
-config.color_scheme = 'Atelier Cave (base16)'
+config.color_scheme = 'Aura (Gogh)'
 config.window_background_opacity = 0.8
 config.hide_tab_bar_if_only_one_tab = true
 

@@ -15,5 +15,8 @@ config.window_frame = {
   inactive_titlebar_bg = '#333333',
 }
 
+config.initial_cols = 115
+config.initial_rows = 50
+
 -- last
 return config

@@ -4,8 +4,21 @@
 
 </div>
 
-`#161214`  
-`#d6b5c1`
+#### colors
+
+dark: `#161214`  
+light: `#d6b5c1`
+
+### environment
+
+```
+MOZ_ENABLE_WAYLAND=1
+XMODIFIERS=@im=fcitx
+XCURSOR_SIZE=24
+XCURSOR_THEME=Adwaita
+QT_WAYLAND_DECORATION=adwaita
+QT_QPA_PLATFORMTHEME=qt6ct
+```
 
 ### discord launch flags
 

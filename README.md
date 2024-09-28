@@ -12,7 +12,6 @@ light: `#d6b5c1`
 ### environment
 
 ```
-MOZ_ENABLE_WAYLAND=1
 XMODIFIERS=@im=fcitx
 XCURSOR_SIZE=24
 XCURSOR_THEME=Adwaita

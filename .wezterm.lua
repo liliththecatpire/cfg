@@ -16,7 +16,7 @@ config.window_frame = {
 }
 
 config.colors = {
-  background = '#0a0a0a',
+  background = '#0f0f0f',
 }
 
 config.initial_cols = 115

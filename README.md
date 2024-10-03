@@ -1,14 +1,3 @@
-<div align="center">
-
-# dotfiles
-
-</div>
-
-#### colors
-
-dark: `#161214`  
-light: `#d6b5c1`
-
 ### environment
 
 ```

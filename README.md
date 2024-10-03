@@ -32,8 +32,6 @@ QT_QPA_PLATFORMTHEME=qt6ct
 | `widget.gtk.rounded-bottom-corners.enabled` | `true` |
 | `image.jxl.enabled` | `true` |
 | `widget.use-xdg-desktop-portal.file-picker` | `1` |
-| `browser.tabs.hoverPreview.enabled` | `true` |
-| `browser.newtabpage.activity-stream.newtabWallpapers.enabled` | `true` |
 
 ### icloud caldav for calendar
 

@@ -1,0 +1,4 @@
+@import 'colors.css';
+
+@define-color accent_bg_color #D56199;
+@define-color accent_color @accent_bg_color;

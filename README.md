@@ -1,7 +1,9 @@
 ### environment
 
 ```
-XMODIFIERS=@im=fcitx
+GTK_IM_MODULE=ibus
+QT_IM_MODULE=ibus
+XMODIFIERS=@im=ibus
 XCURSOR_SIZE=24
 XCURSOR_THEME=Adwaita
 QT_QPA_PLATFORMTHEME=qt6ct

@@ -41,8 +41,6 @@ KRITA_NO_STYLE_OVERRIDE=1
 3. use your apple id email + the app password as the global login credentials for the dav resource
 4. add your individual calendars using the caldav links from before
 
-having kde connect is cool for this for quick clipboard transfering or **have the credentials prepared in bitwarden**
-
 ### icloud drive sync
 
 [iclouded :3](https://github.com/i1vy/iclouded)

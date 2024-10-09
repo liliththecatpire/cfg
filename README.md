@@ -36,9 +36,9 @@ KRITA_NO_STYLE_OVERRIDE=1
 
 ### icloud caldav for calendar
 
-1. https://github.com/midnightmonster/icloud-calendar-urls get your private caldav links with this
+1. get your private caldav links with [this](https://github.com/midnightmonster/icloud-calendar-urls)
 2. generate an app password on appleid.apple.com
-3. use your apple id email + the app password as the global login credentials for the dav resource
+3. use your apple id email + the app password
 4. add your individual calendars using the caldav links from before
 
 ### icloud drive sync

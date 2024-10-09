@@ -4,6 +4,8 @@
 
 ### environment
 
+<div align=left>
+
 ```rust
 GTK_IM_MODULE=ibus
 QT_IM_MODULE=ibus
@@ -14,6 +16,8 @@ QT_QPA_PLATFORMTHEME=qt6ct
 QT_WAYLAND_TEXT_INPUT_PROTOCOL=zwp_text_input_v2
 KRITA_NO_STYLE_OVERRIDE=1
 ```
+
+</div>
 
 ### discord launch flags
 

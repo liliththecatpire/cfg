@@ -34,7 +34,7 @@ KRITA_NO_STYLE_OVERRIDE=1
 | `image.jxl.enabled` | `true` |
 | `widget.use-xdg-desktop-portal.file-picker` | `1` |
 
-### icloud caldav for calendar
+### icloud caldav
 
 1. get your private caldav links with [this](https://github.com/midnightmonster/icloud-calendar-urls)
 2. generate an app password on appleid.apple.com

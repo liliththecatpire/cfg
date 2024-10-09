@@ -4,7 +4,7 @@
    version="1.0"
    height="800"
    id="svg402"
-   sodipodi:docname="KvMojave#.svg"
+   sodipodi:docname="KvMojaveLilith.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,11 +18,11 @@
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4354268"
-     inkscape:cx="195.06394"
-     inkscape:cy="160.23109"
+     inkscape:zoom="8.12"
+     inkscape:cx="70.135468"
+     inkscape:cy="291.62562"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -31,6 +31,186 @@
      inkscape:current-layer="svg402" />
   <defs
      id="defs47">
+    <linearGradient
+       id="linearGradient90">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop88" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop90" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient87">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop85" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop87" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient84">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop82" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop84" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient81">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop79" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop81" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient78">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop76" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop78" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop72" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop75" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient69">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop63" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient60">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop54" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop60" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient73">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop71" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop73" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient70">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop68" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop70" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient67">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop65" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop67" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient64">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop62" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient61">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop59" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop61" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient58">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop56" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop58" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient55">
+      <stop
+         offset="0"
+         style="stop-color:#303030;stop-opacity:1;"
+         id="stop53" />
+      <stop
+         offset="0.95320678"
+         style="stop-color:#1e1e1e"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient52">
+      <stop
+         offset="0"
+         style="stop-color:#303030"
+         id="stop50" />
+      <stop
+         offset="0.5"
+         style="stop-color:#444444;stop-opacity:1;"
+         id="stop51" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e"
+         id="stop52" />
+    </linearGradient>
     <linearGradient
        id="linearGradient49">
       <stop
@@ -114,7 +294,7 @@
     <linearGradient
        gradientTransform="matrix(1,0,0,1.1162791,-90,-942.90718)"
        id="linearGradient6734"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient55"
        y1="1100.2241"
        y2="1142.7761"
        x1="240.5"
@@ -133,7 +313,7 @@
     <linearGradient
        gradientTransform="matrix(0.10416666,0,0,1,-18.95834,-10)"
        id="linearGradient5928"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient73"
        y1="1100.4166"
        y2="1179.5833"
        x1="446"
@@ -142,7 +322,7 @@
     <linearGradient
        gradientTransform="translate(-219.99897,-10)"
        id="linearGradient5922"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient70"
        y1="1100.4166"
        y2="1179.5833"
        x1="240.49896"
@@ -172,7 +352,7 @@
        x2="10"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient61"
        id="linearGradient1888"
        y1="1090.25"
        x1="27.5"
@@ -180,7 +360,7 @@
        x2="75.416664"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient67"
        id="linearGradient1880"
        y1="1090.4166"
        x1="-4.5"
@@ -189,7 +369,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientTransform="translate(0,2.5)"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient58"
        id="linearGradient1779"
        y1="1055.9166"
        x1="27.5"
@@ -197,7 +377,7 @@
        gradientUnits="userSpaceOnUse"
        x2="75.416664" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient64"
        id="linearGradient1869"
        y1="1090.25"
        x1="-4.5"
@@ -205,7 +385,7 @@
        x2="43.416668"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient81"
        id="linearGradient1857"
        y1="1092"
        x1="-93.5"
@@ -214,7 +394,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientTransform="matrix(1,0,0,1.1162791,-186,-293.5524)"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient87"
        id="linearGradient1781"
        y1="1241.224"
        x1="92.5"
@@ -222,7 +402,7 @@
        gradientUnits="userSpaceOnUse"
        x2="121.25" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient69"
        id="linearGradient1849"
        y1="1092"
        x1="-93.5"
@@ -231,7 +411,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientTransform="translate(-114,4.2500779)"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient84"
        id="linearGradient1783"
        y1="1087.7499"
        x1="20.5"
@@ -241,7 +421,7 @@
     <linearGradient
        gradientTransform="translate(-334,-8.250112)"
        id="linearGradient6770"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient60"
        y1="1100.2501"
        y2="1147.7501"
        x1="240.5"
@@ -267,7 +447,7 @@
     <linearGradient
        gradientTransform="translate(-114,4.2500779)"
        id="linearGradient6760"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient78"
        y1="1087.7499"
        y2="1135.2499"
        x1="20.5"
@@ -325,7 +505,7 @@
     <linearGradient
        gradientTransform="matrix(1,0,0,1.1162791,-186,-293.5524)"
        id="linearGradient6758"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient75"
        y1="1241.224"
        y2="1283.7761"
        x1="92.5"
@@ -334,7 +514,7 @@
     <linearGradient
        gradientTransform="matrix(0.10416666,0,0,1,-132.95885,-8.250112)"
        id="linearGradient6756"
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient90"
        y1="1100.2501"
        y2="1147.7501"
        x1="378.80499"
@@ -403,7 +583,7 @@
        x2="-82.484375"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient7127"
+       xlink:href="#linearGradient52"
        id="linearGradient1896"
        y1="-147.72629"
        x1="109.0625"
@@ -934,7 +1114,7 @@
        id="linearGradient1946">
       <stop
          offset="0"
-         style="stop-color:#2c2b2a;stop-opacity:.92"
+         style="stop-color:#2c2b2a;stop-opacity:1;"
          id="stop28" />
       <stop
          offset="1"
@@ -967,7 +1147,7 @@
        id="linearGradient1906">
       <stop
          offset="0"
-         style="stop-color:#302f2e;stop-opacity:.92"
+         style="stop-color:#302f2e;stop-opacity:1;"
          id="stop34" />
       <stop
          offset="1"
@@ -4002,18 +4182,18 @@
      id="menuitem-left-focused"
      transform="matrix(-1,0,0,1,670,34)" />
   <path
-     style="opacity:.9;fill:url(#linearGradient6734);fill-rule:evenodd"
+     style="opacity:1;fill:url(#linearGradient6734);fill-rule:evenodd"
      id="menu-normal"
      d="m 140,285 h 48 v 48 h -48 z" />
   <g
      id="menu-normal-top"
      transform="matrix(1,0,0,0.6,130,-369)">
     <path
-       style="opacity:.9;fill:url(#linearGradient5922);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient5922);fill-rule:evenodd"
        d="m 10.001,1085 h 48 v 5 h -48 z"
        id="path256" />
     <path
-       style="opacity:.4;fill:#969696;line-height:normal;color:#000;stroke-width:.913"
+       style="opacity:0.4;fill:#969696;line-height:normal;color:#000;stroke-width:0.913"
        d="m 10,1085 v 1.6667 H 58 V 1085 Z"
        id="path257" />
   </g>
@@ -4021,11 +4201,11 @@
      id="menu-normal-left"
      transform="matrix(0.6,0,0,1,134,-805)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1888);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient1888);fill-rule:evenodd"
        d="m 5,1090 h 5 v 48 H 5 Z"
        id="path258" />
     <path
-       style="opacity:.4;fill:#969696;line-height:normal;color:#000;stroke-width:.913"
+       style="opacity:0.4;fill:#969696;line-height:normal;color:#000;stroke-width:0.913"
        d="m 5,1090 v 48 h 1.66667 v -48 z "
        id="path259" />
   </g>
@@ -4033,11 +4213,11 @@
      id="menu-normal-right"
      transform="matrix(0.6,0,0,1,153.2,-805)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1869);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient1869);fill-rule:evenodd"
        d="m 58,1090 h 5 v 48 h -5 z"
        id="path260" />
     <path
-       style="opacity:.4;line-height:normal;color:#000;stroke-width:.913"
+       style="opacity:0.4;line-height:normal;color:#000;stroke-width:0.913"
        d="m 61.333333,1090 v 48 H 63 v -48 z"
        id="path261" />
   </g>
@@ -4049,12 +4229,12 @@
        transform="matrix(1.6,0,0,0.45454545,-154,1125.5625)"
        id="g262">
       <path
-         style="opacity:.9;fill:url(#linearGradient1896);fill-rule:evenodd"
+         style="opacity:1;fill:url(#linearGradient1896);fill-rule:evenodd"
          d="m 102.5,27.3622 h 30 v 11 h -30 z "
          id="path262" />
     </g>
     <path
-       style="opacity:.4;line-height:normal;color:#000;stroke-width:.913"
+       style="opacity:0.4;line-height:normal;color:#000;stroke-width:0.913"
        d="M 10,1141.3333 V 1143 h 48 v -1.6667 z"
        id="path263" />
   </g>
@@ -4062,11 +4242,11 @@
      id="menu-normal-topleft"
      transform="matrix(0.6,0,0,0.6,134,-369)">
     <path
-       style="opacity:.9;fill:url(#linearGradient5928);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient5928);fill-rule:evenodd"
        d="m 10,1085 c -2.77,0 -5,2.23 -5,5 h 5 z"
        id="path264" />
     <path
-       style="opacity:.4;fill:#969696;line-height:normal;color:#000"
+       style="opacity:0.4;fill:#969696;line-height:normal;color:#000"
        d="m 10,1085 c -2.75272,0 -5,2.2473 -5,5 h 1.66667 c 0,-1.6793 1.65405,-3.3333 3.33333,-3.3333 z "
        id="path265" />
   </g>
@@ -4074,11 +4254,11 @@
      id="menu-normal-topright"
      transform="matrix(0.6,0,0,0.6,153.2,-369)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1880);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient1880);fill-rule:evenodd"
        d="m 58,1085 v 5 h 5 c 0,-2.77 -2.23,-5 -5,-5 z"
        id="path266" />
     <path
-       style="opacity:.4;fill:url(#linearGradient5932);line-height:normal;color:#000"
+       style="opacity:0.4;fill:url(#linearGradient5932);line-height:normal;color:#000"
        d="m 58,1085 v 1.6667 c 1.67927,0 3.333333,1.654 3.333333,3.3333 H 63 c 0,-2.7527 -2.24728,-5 -5,-5 z"
        id="path267" />
   </g>
@@ -4086,11 +4266,11 @@
      id="menu-normal-bottomleft"
      transform="matrix(0.6,0,0,0.6,134,-349.8)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1779);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient1779);fill-rule:evenodd"
        d="m 5,1138 c 0,2.77 2.23,5 5,5 v -5 z"
        id="path268" />
     <path
-       style="opacity:.4;fill:url(#linearGradient5936);line-height:normal;color:#000"
+       style="opacity:0.4;fill:url(#linearGradient5936);line-height:normal;color:#000"
        d="m 5,1138 c 0,2.7527 2.24728,5 5,5 v -1.6667 c -1.67928,0 -3.33333,-1.654 -3.33333,-3.3333 z "
        id="path269" />
   </g>
@@ -4098,11 +4278,11 @@
      id="menu-normal-bottomright"
      transform="matrix(0.6,0,0,0.6,153.2,-349.8)">
     <path
-       style="opacity:.9;fill:url(#linearGradient5938);fill-rule:evenodd"
+       style="opacity:1;fill:url(#linearGradient5938);fill-rule:evenodd"
        d="m 58,1138 v 5 c 2.77,0 5,-2.23 5,-5 z"
        id="path270" />
     <path
-       style="opacity:.4;line-height:normal;color:#000"
+       style="opacity:0.4;line-height:normal;color:#000"
        d="m 61.3333,1138 c 0,1.6793 -1.65406,3.3333 -3.33333,3.3333 v 1.6667 c 2.75272,0 5,-2.2473 5,-5 z "
        id="path271" />
   </g>
@@ -4111,7 +4291,7 @@
      id="menu-shadow-top"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient6770)"
+       style="opacity:1;fill:url(#linearGradient6770)"
        d="m -104,1083.75 h 48 v 8 h -48 z"
        id="path272" />
     <path
@@ -4124,7 +4304,7 @@
      id="menu-shadow-left"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1781)"
+       style="opacity:1;fill:url(#linearGradient1781)"
        d="m -109,1091.7501 h 5 v 48 h -5 z"
        id="path274" />
     <path
@@ -4137,7 +4317,7 @@
      id="menu-shadow-right"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient6758)"
+       style="opacity:1;fill:url(#linearGradient6758)"
        d="m -56,1091.7501 h 5 v 48 h -5 z"
        id="path276" />
     <path
@@ -4150,7 +4330,7 @@
      id="menu-shadow-bottom"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1857)"
+       style="opacity:1;fill:url(#linearGradient1857)"
        d="m -104,1139.75 h 48 v 5 h -48 z"
        id="path278" />
     <path
@@ -4163,7 +4343,7 @@
      id="menu-shadow-topleft"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient6756)"
+       style="opacity:1;fill:url(#linearGradient6756)"
        d="m -104,1083.7501 c -2.75,-10e-5 -5,2.2499 -5,4.9999 v 3.0001 h 5 z"
        id="path280" />
     <path
@@ -4176,7 +4356,7 @@
      id="menu-shadow-topright"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1849)"
+       style="opacity:1;fill:url(#linearGradient1849)"
        d="m -56,1083.7501 v 8 h 5 v -3.0001 c 0,-2.75 -2.25,-5 -5,-4.9999 z"
        id="path282" />
     <path
@@ -4189,7 +4369,7 @@
      id="menu-shadow-bottomleft"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient1783)"
+       style="opacity:1;fill:url(#linearGradient1783)"
        d="m -109,1139.7501 c 0,2.77 2.23001,5 5,5 v -5 z"
        id="path284" />
     <path
@@ -4202,7 +4382,7 @@
      id="menu-shadow-bottomright"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:.9;fill:url(#linearGradient6760)"
+       style="opacity:1;fill:url(#linearGradient6760)"
        d="m -56,1139.7501 v 5 c 2.77,0 5,-2.23 5,-5 z"
        id="path286" />
     <path
@@ -4229,7 +4409,7 @@
      d="m -306.75,46 h 2.5 v 7.25 h -2.5 z"
      transform="rotate(-90)" />
   <path
-     style="opacity:.93;paint-order:normal;fill:#302f2e;fill-rule:evenodd"
+     style="opacity:1;paint-order:normal;fill:#302f2e;fill-rule:evenodd"
      id="window-normal"
      d="m 381,597 h 30 v 30 h -30 z" />
   <path
@@ -5266,7 +5446,7 @@
      id="tooltip-normal-bottomright"
      transform="rotate(-180,406,500)" />
   <path
-     style="opacity:.93;paint-order:normal;fill:#2c2b2a;fill-rule:evenodd"
+     style="opacity:1;paint-order:normal;fill:#2c2b2a;fill-rule:evenodd"
      id="window-normal-inactive"
      d="m 413,597 h 30 v 30 h -30 z" />
   <path

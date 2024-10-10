@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.12"
-     inkscape:cx="70.135468"
-     inkscape:cy="291.62562"
+     inkscape:zoom="16"
+     inkscape:cx="58.75"
+     inkscape:cy="278.5"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -4291,7 +4291,11 @@
      id="menu-shadow-top"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:1;fill:url(#linearGradient6770)"
+       style="opacity:0.9;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06066;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -104,1082.75 h 48 v 9 h -48 z"
+       id="path403" />
+    <path
+       style="opacity:1;fill:url(#linearGradient6770);stroke:none;stroke-opacity:1;stroke-width:1;stroke-dasharray:none;paint-order:markers stroke fill"
        d="m -104,1083.75 h 48 v 8 h -48 z"
        id="path272" />
     <path
@@ -4303,6 +4307,10 @@
      style="fill-rule:evenodd"
      id="menu-shadow-left"
      transform="translate(162.25,-807)">
+    <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.09545;fill-opacity:1"
+       d="m -110,1091.7501 h 6 v 48 h -6 z"
+       id="path407" />
     <path
        style="opacity:1;fill:url(#linearGradient1781)"
        d="m -109,1091.7501 h 5 v 48 h -5 z"
@@ -4317,6 +4325,10 @@
      id="menu-shadow-right"
      transform="translate(162.25,-807)">
     <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.09545;fill-opacity:1"
+       d="m -56,1091.7501 h 6 v 48 h -6 z"
+       id="path406" />
+    <path
        style="opacity:1;fill:url(#linearGradient6758)"
        d="m -56,1091.7501 h 5 v 48 h -5 z"
        id="path276" />
@@ -4329,6 +4341,10 @@
      style="fill-rule:evenodd"
      id="menu-shadow-bottom"
      transform="translate(162.25,-807)">
+    <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.09545;fill-opacity:1"
+       d="m -104,1139.75 h 48 v 6 h -48 z"
+       id="path409" />
     <path
        style="opacity:1;fill:url(#linearGradient1857)"
        d="m -104,1139.75 h 48 v 5 h -48 z"
@@ -4343,7 +4359,11 @@
      id="menu-shadow-topleft"
      transform="translate(162.25,-807)">
     <path
-       style="opacity:1;fill:url(#linearGradient6756)"
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke:none;stroke-width:1.1619;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+       d="m -104,1082.75 c -3.3,-10e-5 -6,2.5311 -6,5.6249 v 3.3751 h 6 z"
+       id="path404" />
+    <path
+       style="opacity:1;fill:url(#linearGradient6756);stroke:none;stroke-opacity:1;paint-order:stroke markers fill"
        d="m -104,1083.7501 c -2.75,-10e-5 -5,2.2499 -5,4.9999 v 3.0001 h 5 z"
        id="path280" />
     <path
@@ -4355,6 +4375,10 @@
      style="fill-rule:evenodd"
      id="menu-shadow-topright"
      transform="translate(162.25,-807)">
+    <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.1619;fill-opacity:1"
+       d="m -56,1082.75 v 9 h 6 v -3.3751 c 0,-3.0938 -2.7,-5.625 -6,-5.6249 z"
+       id="path405" />
     <path
        style="opacity:1;fill:url(#linearGradient1849)"
        d="m -56,1083.7501 v 8 h 5 v -3.0001 c 0,-2.75 -2.25,-5 -5,-4.9999 z"
@@ -4369,6 +4393,10 @@
      id="menu-shadow-bottomleft"
      transform="translate(162.25,-807)">
     <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.20001;fill-opacity:1"
+       d="m -110,1139.7501 c 0,3.324 2.67601,6 6,6 v -6 z"
+       id="path408" />
+    <path
        style="opacity:1;fill:url(#linearGradient1783)"
        d="m -109,1139.7501 c 0,2.77 2.23001,5 5,5 v -5 z"
        id="path284" />
@@ -4381,6 +4409,10 @@
      style="fill-rule:evenodd"
      id="menu-shadow-bottomright"
      transform="translate(162.25,-807)">
+    <path
+       style="fill-rule:evenodd;opacity:0.9;fill:#808080;stroke-width:1.20001;fill-opacity:1"
+       d="m -56,1139.7501 v 6 c 3.324,0 6,-2.676 6,-6 z"
+       id="path410" />
     <path
        style="opacity:1;fill:url(#linearGradient6760)"
        d="m -56,1139.7501 v 5 c 2.77,0 5,-2.23 5,-5 z"

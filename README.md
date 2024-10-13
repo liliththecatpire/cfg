@@ -34,6 +34,14 @@ KRITA_NO_STYLE_OVERRIDE=1
 | `image.jxl.enabled` | `true` |
 | `widget.use-xdg-desktop-portal.file-picker` | `1` |
 
+### custom shortcuts
+
+| shortcut | command |
+| --- | --- |
+| <kbd>Super</kbd> + <kbd>.</kbd> | `gnome-characters` |
+| <kbd>Super</kbd> + <kbd>Print</kbd> | `fish -c "satty -f (ls -Art ~/Pictures/Screenshots/*.png \| tail -n1)"` |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> | `xdg-terminal-exec` |
+
 ### icloud caldav
 
 1. get your private caldav links with [this](https://github.com/midnightmonster/icloud-calendar-urls)

@@ -48,9 +48,7 @@ KRITA_NO_STYLE_OVERRIDE=1
 
 | shortcut | command |
 | --- | --- |
-| <kbd>Super</kbd> + <kbd>.</kbd> | `gnome-characters` |
 | <kbd>Super</kbd> + <kbd>Print</kbd> | `fish -c "satty -f (ls -Art ~/Pictures/Screenshots/*.png \| tail -n1)"` |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> | `xdg-terminal-exec` |
 
 <div align=center>
 

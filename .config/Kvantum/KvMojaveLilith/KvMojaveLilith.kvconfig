@@ -98,7 +98,7 @@ tooltip.text.color=#fafafa
 highlight.text.color=black
 inactive.highlight.text.color=#141414
 link.color=#C5719A
-link.visited.color=#A968C8
+link.visited.color=#9A3869
 
 [Hacks]
 transparent_ktitle_label=false

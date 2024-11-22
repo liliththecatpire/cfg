@@ -60,8 +60,3 @@ QT_WAYLAND_TEXT_INPUT_PROTOCOL=zwp_text_input_v2
 3. use your apple id email + the app password
 4. add your individual calendars using the caldav links from before
 
-<div align=center>
-
-### icloud drive sync
-
-[iclouded :3](https://github.com/i1vy/iclouded)

@@ -13,7 +13,7 @@ QT_WAYLAND_TEXT_INPUT_PROTOCOL=zwp_text_input_v2
 ### discord launch flags
 
 ```b
---enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime
+--enable-features=VaapiVideoDecodeLinuxGL,WaylandWindowDecorations,WebRTCPipeWireCapturer --use-gl=angle --use-angle=gl --ozone-platform=wayland --enable-wayland-ime --wayland-text-input-version=3
 ```
 
 ### icloud caldav

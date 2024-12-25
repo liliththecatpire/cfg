@@ -1,11 +1,23 @@
 {
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    "version": "2"
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
   "project_panel": {
     "dock": "right"
   },
   "features": {
+    "inline_completion_provider": "none",
     "copilot": false
   },
-  "theme": "Xcode High Contrast Dark",
+  "theme": "Atelier Cave Dark",
   "ui_font_size": 15,
   "buffer_font_size": 13,
   "buffer_font_family": "FantasqueSansM Nerd Font Propo"

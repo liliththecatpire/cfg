@@ -19,6 +19,6 @@
   },
   "theme": "Atelier Cave Dark",
   "ui_font_size": 15,
-  "buffer_font_size": 13,
-  "buffer_font_family": "FantasqueSansM Nerd Font Propo"
+  "buffer_font_size": 12,
+  "buffer_font_family": "Terminess Nerd Font Propo"
 }

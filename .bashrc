@@ -14,7 +14,6 @@ export QT_IM_MODULE=ibus
 export XMODIFIERS=@im=ibus
 export XCURSOR_SIZE=24
 export XCURSOR_THEME=Adwaita
-export QT_QPA_PLATFORMTHEME=qt6ct
 export QT_WAYLAND_TEXT_INPUT_PROTOCOL=zwp_text_input_v2
 
 [ -x /bin/fish ] && SHELL=/bin/fish exec fish

@@ -39,5 +39,7 @@ S-up = ["extend_to_line_bounds", "delete_selection", "move_line_up", "paste_befo
 [keys.insert]
 A-left = "move_prev_word_start"
 A-right = "move_next_word_start"
+C-left = "move_prev_word_start"
+C-right = "move_next_word_start"
 S-left = "extend_char_left"
 S-right = "extend_char_right"

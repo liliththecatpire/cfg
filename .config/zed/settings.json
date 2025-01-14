@@ -19,6 +19,6 @@
   },
   "theme": "Atelier Cave Dark",
   "ui_font_size": 15,
-  "buffer_font_size": 12,
-  "buffer_font_family": "AnonymicePro Nerd Font Mono"
+  "buffer_font_size": 13,
+  "buffer_font_family": "Inconsolata Nerd Font Propo"
 }

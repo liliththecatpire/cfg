@@ -4,7 +4,7 @@ function fish_prompt
     set -l branch (git rev-parse --abbrev-ref HEAD 2> /dev/null)
 
     echo -n \n
-    set_color F2E2F8 normal
+    set_color normal
     echo -n $USER
     echo -n " "
 

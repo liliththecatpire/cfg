@@ -1,21 +1,26 @@
 function fish_prompt
     set -l symbol " ✿  "
-
     set -l color $fish_color_cwd
-
-    if fish_is_root_user
-        set symbol " ✽  "
-        set -q fish_color_cwd_root
-        and set color $fish_color_cwd_root
-    end
+    set -l branch (git rev-parse --abbrev-ref HEAD 2> /dev/null)
 
     echo -n \n
+    set_color F2E2F8 normal
     echo -n $USER
     echo -n " "
 
-    set_color $color
+    set_color F3E093 bryellow
+
     echo -n (prompt_pwd)
-    set_color normal
+
+    if test "$branch"
+        echo -n (set_color normal)" ["
+        echo -n (set_color $color)"$branch"
+        echo -n (set_color normal)"]"
+    end
+
+    set_color F2E2F8 magenta
 
     echo -n $symbol
+
+    set_color normal
 end

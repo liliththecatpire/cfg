@@ -8,7 +8,7 @@ function fish_prompt
     echo -n $USER
     echo -n " "
 
-    set_color F3E093 bryellow
+    set_color DDDFFF brblue
 
     echo -n (prompt_pwd)
 
